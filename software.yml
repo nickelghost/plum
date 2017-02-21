@@ -1,0 +1,8 @@
+---
+:node:
+  :exec: bin/node
+  :add_exec:
+    :npm: bin/npm
+:formulator:
+  :exec: formulator.rb
+  :manpage: man.txt

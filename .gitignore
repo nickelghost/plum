@@ -1,0 +1,4 @@
+apps/*/
+path/*/
+path_backups/*/
+tmp/*/

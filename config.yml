@@ -1,0 +1,11 @@
+# select architecture (just x86_64 available in the repo for now)
+:arch: x86_64
+
+# address for an FTP repo. this is a provisional repo I've set up
+:repo_address: 163.172.216.10
+
+# please select the path, where your apps should reside
+#:apps_path: FILL_IN
+
+# An option for making path backups
+:backups: true

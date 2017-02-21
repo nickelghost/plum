@@ -1,0 +1,11 @@
+Usage:
+  plum <command>
+
+Command List:
+  help - display this text
+  list - list all packages available
+  install <package-name> - install a package from the server
+  local-install <package-path> - install a local package
+  download <package> <path> - downloads a package to path
+  remove <package-name> - remove a package
+  reload - relink all packages
